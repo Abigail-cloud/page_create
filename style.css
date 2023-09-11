@@ -1,0 +1,40 @@
+body{
+ margin: 0;
+ padding: 0;
+ font-family: Arial, Helvetica, sans-serif;
+}
+header{
+ background-color: rgb(122, 148, 190);
+ padding: 20px;
+ color: white;
+ text-align: center;
+}
+main{
+ max-width: 800px;
+ margin: 0 auto;
+ padding: 30px;
+}
+
+section{
+ margin-bottom: 20px;
+}
+h2{
+ font-size: 30px;
+ margin-top: 0;
+}
+h4{
+ font-size: 24px;
+ margin-top: 0;
+ padding-left: 4em;
+ background-color: rgb(64, 64, 115);
+ color: aliceblue;
+}
+img{
+ max-width: 100px;
+ height: auto;
+}
+
+a{
+ color: rgb(4, 90, 164);
+ text-decoration: none;
+}
